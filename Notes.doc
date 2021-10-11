@@ -22,3 +22,29 @@ How to ask questions ?
 https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
 4. XY problem , explain the problem X , instead of asking solution for Y which you think is the solution for X . 
 5. helping you is not the highest point of the other user. 
+
+How to google . 
+1.Use tools option to limit search period/ specific words only. 
+2. use " " to search for specific phrase included with something.  
+3. use - to exclude search with particular words . 
+
+
+Dont ask to ask , just ask . dont start the question with " any java experts around? " 
+While asking include : 
+what you think is the problem , what exactly do you want to happen 
+what is actually happening , how did you get there , what have you tried so far / 
+provide screenshot eg: command line , error message , console etc 
+
+code can be shown differently using `` in discord chat . 
+`Your Code`
+```
+Your Multiple Lines of Code
+```
+
+code highlighting  
+
+```javascript
+
+Your Multiple Lines of Colorful Code
+
+```
