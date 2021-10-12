@@ -48,3 +48,18 @@ code highlighting
 Your Multiple Lines of Colorful Code
 
 ```
+
+network : computer connected to each other . 
+router : a tiny computer to route message from computer A to B . 
+modem: a device to connect computer to telecom network 
+internet : a global network which connect many different kinds of device eg: pc , mobile , phones etc 
+IP(internet protocol) address :  an unique adress to identify  a  device in network 
+domain : an easier name used  to represent an ip address 
+Internet is an infrastructure while web is a service built on top of it , other services include IRC and email . 
+clients: web user connected to the network 
+server : computer that stores the webpages , sites apps / 
+web page : document inside a web browser 
+website : collection of web pages 
+web server: computer that hosts website on the internet 
+search engine : web service that helpes you find web pages
+DNS domain name system :  phone book of the internet ;  it translates domain name into ip address .  
