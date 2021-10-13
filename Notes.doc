@@ -65,3 +65,21 @@ search engine : web service that helpes you find web pages
 DNS domain name system :  phone book of the internet ;  it translates domain name into ip address .
 
 instal xubuntu , host key is right ctrl , display is set to full screen by change screen resolution inside the os 
+
+CLI commands 
+ls : list of files and folder 
+cp: to copy file 
+mkdir : to make dir 
+rm : remove dir 
+pwd : to know your current location 
+touch - to create file , multiple file names allowed 
+vim file.ext - open in editor ,  esc button ->   . :w save  , :q quit, :wq  to save and quit
+mv file1 file2(move) , to rename (computer thinks renaming file as move ) 
+rm directoryname -r , to remove direcotyr with files instead
+
+man: man ls , for manual on ls command usage 
+ctrl C, A , E and U for cancel , move to beginning of line  ,move to  ending of line  and delete to beginning of a line . 
+
+
+Opening everything inside the folder 
+ code my_awesome_project/. 
