@@ -85,3 +85,5 @@ Opening everything inside the folder
  code my_awesome_project/. 
 
  connected to Git via CLI 
+
+ git status - to check any changes 
