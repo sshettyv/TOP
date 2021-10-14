@@ -83,3 +83,5 @@ ctrl C, A , E and U for cancel , move to beginning of line  ,move to  ending of 
 
 Opening everything inside the folder 
  code my_awesome_project/. 
+
+ connected to Git via CLI 
