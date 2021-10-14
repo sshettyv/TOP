@@ -87,3 +87,11 @@ Opening everything inside the folder
  connected to Git via CLI 
 
  git status - to check any changes 
+ git add filename - to add the file to staging (waiting room ) area.
+ git add -A or git add .  - to add all unstage files to staging area
+ git commit -m "message here"
+ git push origin main  (origin -name of remote connection )
+ git log  - to check log history , ctrl Z to exit . 
+
+ basic syntax program | action | destination
+ eg:            git   |    add | -A
