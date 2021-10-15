@@ -95,3 +95,8 @@ Opening everything inside the folder
 
  basic syntax program | action | destination
  eg:            git   |    add | -A
+
+
+HTML - doc and webpages in browser
+CSS - page to stylise the html doc 
+javascript- program to change html and css after its been loaded
