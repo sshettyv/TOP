@@ -100,3 +100,8 @@ Opening everything inside the folder
 HTML - doc and webpages in browser
 CSS - page to stylise the html doc 
 javascript- program to change html and css after its been loaded
+
+<p>             text content                </p>
+opening tag     content                     closing tag
+
+empty elements: html elements without closing tag 
