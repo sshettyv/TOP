@@ -86,7 +86,10 @@ Opening everything inside the folder
 
  connected to Git via CLI 
 
- git pull
+ start with 
+ git fetch : to check with remove , then git status to check for changes 
+ 
+ git pull : to update local file to remove .
  git status - to check any changes 
  git add filename - to add the file to staging (waiting room ) area.
  git add -A or git add .  - to add all unstage files to staging area
