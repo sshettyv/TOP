@@ -110,7 +110,7 @@ opening tag     content                     closing tag
 
 empty elements: html elements without closing tag
 
-
+HTML Attribute gives addition info to an html element and goes in html opening tag , eg: href , src
 Absolute links : link to other websites on the internet (include protocol and domain eg : https://www.g.com) 
 Relative links : link within our own website(link is relative to the page you are creating ) 
 
