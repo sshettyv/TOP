@@ -108,5 +108,11 @@ javascript- program to change html and css after its been loaded
 <p>             text content                </p>
 opening tag     content                     closing tag
 
-empty elements: html elements without closing tag 
-hi again
+empty elements: html elements without closing tag
+
+
+Absolute links : link to other websites on the internet (include protocol and domain eg : https://www.g.com) 
+Relative links : link within our own website(link is relative to the page you are creating ) 
+
+to access file one folder above current folder :  ../images/dog.jpg
+../../index.html also works if you want to go multiple levels
