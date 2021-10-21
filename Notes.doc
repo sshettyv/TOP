@@ -116,3 +116,14 @@ Relative links : link within our own website(link is relative to the page you ar
 
 to access file one folder above current folder :  ../images/dog.jpg
 ../../index.html also works if you want to go multiple levels
+
+CSS 
+Selectors : html elements to which CSS apply 
+eg : div    {font-weight : 100;}
+    selector property       value 
+    universal selector : * {}
+    type selector : eg: div {}
+    class selector : .alert-msg{}
+    id selector : #title {};  an element can have only one id , eg id="title" unlike class= "alert-text severe-alert"
+    grouping selector :  .read,.unread{'prop common to both classes'}
+    chaining selector and descendant combinator :https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations
