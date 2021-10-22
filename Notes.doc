@@ -127,3 +127,4 @@ eg : div    {font-weight : 100;}
     id selector : #title {};  an element can have only one id , eg id="title" unlike class= "alert-text severe-alert"
     grouping selector :  .read,.unread{'prop common to both classes'}
     chaining selector and descendant combinator :https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations
+    hi
