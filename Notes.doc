@@ -127,3 +127,13 @@ eg : div    {font-weight : 100;}
     id selector : #title {};  an element can have only one id , eg id="title" unlike class= "alert-text severe-alert"
     grouping selector :  .read,.unread{'prop common to both classes'}
     chaining selector and descendant combinator :https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations
+Specificity: 
+A css declaration which is more specific taken precedence over less specific ones .
+
+    1.ID selectors (most specific selector)
+    2.Class selectors
+    3.Type selectors
+    4.Universal selector and combinators (no specificity)
+Specficity is taken into account when an element has multiple conflicting declarations targetting it . 
+Else the cascade then checks for the amount of selector type , one with more = higher specificity 
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations
