@@ -1,0 +1,22 @@
+.class1, 
+.class3,
+.class5{
+   background-color: #ff0000 ; 
+   font-family: 'Verdana',sans-serif;
+}
+
+#id2{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+.class31{
+    font-size: 24px;
+}
+
+#id4{
+    background-color: #008000;
+    font-size: 24fx;
+    font-weight: bold;
+
+}
