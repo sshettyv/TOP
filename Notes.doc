@@ -137,3 +137,8 @@ A css declaration which is more specific taken precedence over less specific one
 Specficity is taken into account when an element has multiple conflicting declarations targetting it . 
 Else the cascade then checks for the amount of selector type , one with more = higher specificity 
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations
+
+CSS : 
+1. as a separate .css file 
+2. included inside head tag as a style tag
+3. inside the tag itself eg <div style = "color: white";> .. </div>
