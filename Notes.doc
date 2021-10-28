@@ -142,3 +142,5 @@ CSS :
 1. as a separate .css file 
 2. included inside head tag as a style tag
 3. inside the tag itself eg <div style = "color: white";> .. </div>
+
+Dev tools 
