@@ -144,3 +144,21 @@ CSS :
 3. inside the tag itself eg <div style = "color: white";> .. </div>
 
 Dev tools 
+
+Css box model : https://www.youtube.com/watch?v=rIO5326FgPE
+tips : box-sizing , makes height and width the set value instead of  eg : sum of height padding and border.  
+use Margin to space two elements away from each other . 
+if you want to space out the element from itself (inside the box) use Padding as it includes the colour also . 
+
+content box sized using width and height 
+padding box sized usng padding 
+border box using border
+margin box using margin 
+.box {
+  width: 350px;
+  height: 150px;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+}
+actual space taken is 410px(350+25+25+5+5) x 210 px (150+25+25+5+5) , Margin not calculated 
