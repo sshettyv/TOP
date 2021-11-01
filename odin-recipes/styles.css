@@ -1,4 +1,4 @@
-
+/* 
 li {
     color: red;
     background-color: rgb(222, 230, 222);
@@ -10,4 +10,19 @@ img{
 .title{
     color: red;
     font-size: 25px;
-}
+} */
+.flex-container {
+    display: flex;
+    background: green;
+    padding: 16px;
+    gap:6px;
+    border: 5px solid blue;
+  }
+  
+  /* this selector selects all divs inside of .flex-container */
+  .flex-container div {
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 100px;
+   flex: 1;
+  }
